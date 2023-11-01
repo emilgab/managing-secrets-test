@@ -1,0 +1,15 @@
+{
+  "name": "managing-secrets-test",
+  "version": "1.0.0",
+  "description": "test for managing secrets in git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
